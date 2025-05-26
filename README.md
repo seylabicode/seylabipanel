@@ -5,8 +5,8 @@
   <p>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Made%20with-Bash-blue?style=for-the-badge&logo=gnu-bash" alt="Made with Bash"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Platform-Linux-green?style=for-the-badge&logo=linux" alt="Platform: Linux (Debian-based)"></a>
-    <a href="https://github.com/YOUR_USERNAME/SeylabiPanel/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
-    <a href="https://github.com/YOUR_USERNAME/SeylabiPanel/issues" target="_blank"><img src="https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=for-the-badge" alt="Contributions Welcome"></a>
+    <a href="https://github.com/seylabicode/SeylabiPanel/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
+    </a>
   </p>
 </div>
 
@@ -50,7 +50,7 @@ SeylabiPanel is a Bash script designed to simplify the installation and configur
 1.  **Clone or Download (Recommended from GitHub):**
     To ensure you have the latest and official version, please obtain the script from our GitHub repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/SeylabiPanel.git](https://github.com/YOUR_USERNAME/SeylabiPanel.git)
+    git clone [https://github.com/seylabicode/SeylabiPanel.git](https://github.com/YOUR_USERNAME/SeylabiPanel.git)
     cd SeylabiPanel
     ```
     *(Replace `YOUR_USERNAME/SeylabiPanel.git` with your repository URL)*
