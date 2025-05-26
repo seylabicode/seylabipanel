@@ -50,10 +50,9 @@ SeylabiPanel is a Bash script designed to simplify the installation and configur
 1.  **Clone or Download (Recommended from GitHub):**
     To ensure you have the latest and official version, please obtain the script from our GitHub repository:
     ```bash
-    git clone [https://github.com/seylabicode/SeylabiPanel.git](https://github.com/YOUR_USERNAME/SeylabiPanel.git)
+    git clone [https://github.com/seylabicode/SeylabiPanel.git](https://github.com/seylabicode/SeylabiPanel.git)
     cd SeylabiPanel
     ```
-    *(Replace `YOUR_USERNAME/SeylabiPanel.git` with your repository URL)*
 
     Alternatively, download the `seylabipanel.sh` script file directly (though cloning is preferred for updates).
 
@@ -113,10 +112,9 @@ SeylabiPanel یک اسکریپت Bash است که برای ساده‌سازی �
 1.  **کلون کردن یا دانلود (توصیه می‌شود از GitHub):**
     برای اطمینان از دریافت آخرین نسخه و نسخه رسمی، لطفاً اسکریپت را از مخزن گیت‌هاب ما دریافت کنید:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/SeylabiPanel.git](https://github.com/YOUR_USERNAME/SeylabiPanel.git)
+    git clone [https://github.com/seylabicode/SeylabiPanel.git](https://github.com/seylabicode/SeylabiPanel.git)
     cd SeylabiPanel
     ```
-    *(آدرس `YOUR_USERNAME/SeylabiPanel.git` را با آدرس مخزن خود جایگزین کنید)*
 
     یا فایل اسکریپت `seylabipanel.sh` را مستقیماً دانلود کنید (اگرچه کلون کردن برای دریافت به‌روزرسانی‌ها ارجح است).
 
@@ -176,10 +174,9 @@ SeylabiPanel 是一个 Bash 脚本，旨在简化在基于 Debian 的系统（�
 1.  **克隆或下载（建议从 GitHub 获取）：**
     为确保您拥有最新和官方版本，请从我们的 GitHub 仓库获取脚本：
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/SeylabiPanel.git](https://github.com/YOUR_USERNAME/SeylabiPanel.git)
+    git clone [https://github.com/seylabicode/SeylabiPanel.git](https://github.com/seylabicode/SeylabiPanel.git)
     cd SeylabiPanel
     ```
-    *(请将 `YOUR_USERNAME/SeylabiPanel.git` 替换为您的仓库 URL)*
 
     或者，直接下载 `seylabipanel.sh` 脚本文件（但为了更新，首选克隆方式）。
 
@@ -214,7 +211,7 @@ This project is licensed under the **MIT License**.
 You can find the full license text in the [LICENSE](LICENSE) file in the root of this repository.
 *(Please ensure you create a `LICENSE` file in your repository with the MIT License text provided previously, and update the `[year]` and `[fullname]` placeholders within that file.)*
 
-**Note on Usage:** While the MIT License grants broad permissions, we strongly recommend obtaining SeylabiPanel directly from its official GitHub repository (`https://github.com/YOUR_USERNAME/SeylabiPanel`) to ensure you are using the latest, most secure, and official version of the script.
+**Note on Usage:** While the MIT License grants broad permissions, we strongly recommend obtaining SeylabiPanel directly from its official GitHub repository (`https://github.com/seylabicode/SeylabiPanel`) to ensure you are using the latest, most secure, and official version of the script.
 
 ---
 <div align="center">
