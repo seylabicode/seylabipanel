@@ -5,7 +5,7 @@
   <p>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Made%20with-Bash-blue?style=for-the-badge&logo=gnu-bash" alt="Made with Bash"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Platform-Linux-green?style=for-the-badge&logo=linux" alt="Platform: Linux (Debian-based)"></a>
-    <a href="https://github.com/seylabicode/SeylabiPanel/blob/main/LICENSE.md" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
+    <a href="https://github.com/seylabicode/SeylabiPanel/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
     </a>
   </p>
 </div>
@@ -50,7 +50,7 @@ SeylabiPanel is a Bash script designed to simplify the installation and configur
 1.  **Clone or Download (Recommended from GitHub):**
     To ensure you have the latest and official version, please obtain the script from our GitHub repository:
     ```bash
-    git clone [https://github.com/seylabicode/SeylabiPanel.git](https://github.com/seylabicode/SeylabiPanel.git)
+    git clone https://github.com/seylabicode/SeylabiPanel.git
     cd SeylabiPanel
     ```
 
@@ -112,7 +112,7 @@ SeylabiPanel یک اسکریپت Bash است که برای ساده‌سازی �
 1.  **کلون کردن یا دانلود (توصیه می‌شود از GitHub):**
     برای اطمینان از دریافت آخرین نسخه و نسخه رسمی، لطفاً اسکریپت را از مخزن گیت‌هاب ما دریافت کنید:
     ```bash
-    git clone [https://github.com/seylabicode/SeylabiPanel.git](https://github.com/seylabicode/SeylabiPanel.git)
+    git clone https://github.com/seylabicode/SeylabiPanel.git
     cd SeylabiPanel
     ```
 
@@ -174,7 +174,7 @@ SeylabiPanel 是一个 Bash 脚本，旨在简化在基于 Debian 的系统（�
 1.  **克隆或下载（建议从 GitHub 获取）：**
     为确保您拥有最新和官方版本，请从我们的 GitHub 仓库获取脚本：
     ```bash
-    git clone [https://github.com/seylabicode/SeylabiPanel.git](https://github.com/seylabicode/SeylabiPanel.git)
+    git clone https://github.com/seylabicode/SeylabiPanel.git
     cd SeylabiPanel
     ```
 
