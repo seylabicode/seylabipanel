@@ -13,7 +13,7 @@
 Welcome to SeylabiPanel! This script simplifies setting up a Linux desktop environment (XFCE, MATE, LXQt) with RDP (xrdp) access on Debian-based systems. Manage installations, uninstallations, and check status with an easy-to-use interactive menu.
 
 ✨ **See SeylabiPanel in Action!** ✨
-*(Consider adding a GIF or a couple of screenshots here showing the script's menu and a successful RDP connection. This will greatly enhance the "dynamic" feel of your README!)*
+
 
 
 ---
